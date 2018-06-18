@@ -1,1 +1,1 @@
-# Stochastic Gradient Descent for Neural Nets 
+# Stochastic Gradient Descent for Neural Networks
