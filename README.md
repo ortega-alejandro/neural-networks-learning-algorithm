@@ -8,4 +8,4 @@ Final project for Math 465/CS 445 _High Dimensional Data Analysis_ taught by Dr.
 
 ### Project Members: Alejandro Ortega, Peter Mikhael
 
-### Course Grade Earned: A
+### Course Grade Earned: A-
