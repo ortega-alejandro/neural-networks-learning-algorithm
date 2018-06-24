@@ -1,0 +1,3 @@
+# Neural Networks Learning
+
+I took the Stanford Machine Learning course concurrently with Math 465, and my lecture was derived from Andrew Ng's course material on backpropagation and stochastic gradient descent. Here is my implementation of Programming Assignment 4 from the ML coursera that covers learning with Neural Networks using the MNIST dataset. To run the code in Octave/MATLAB, type `run ex4`.
