@@ -7,5 +7,3 @@ Final project for Math 465/CS 445 _High Dimensional Data Analysis_ taught by Dr.
 * "Stochastic Gradient Descent." _Understanding Machine Learning: from Theory to Algorithms_, by Shai Shalev-Shwartz and Shai Ben-David, Cambridge University Press, 2016, pp. 184–201.
 
 ### Project Members: Alejandro Ortega, Peter Mikhael
-
-### Course Grade Earned: A-
